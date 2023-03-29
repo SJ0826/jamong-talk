@@ -1,5 +1,6 @@
 # 자몽톡 🍊
 
+![image](https://user-images.githubusercontent.com/56298540/228528457-5bd4e57a-8a4c-46e6-b058-e2f5b32e2bc5.png)
 이 레파지토리는 Sass 실습을 위해 만들었습니다.
 
 이론은 블로그 포스트에 정리했습니다. [링크](https://sj0826.github.io/css/css-Sass/)
